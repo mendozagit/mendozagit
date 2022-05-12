@@ -1,20 +1,20 @@
 ### Hi there 👋
 
-# Hi, I'm Jesus Mendoza (mendozagit)
+# I'm Jesus Mendoza
 
 [![GitHub followers](https://img.shields.io/github/followers/mendozagit?label=mendozagit&logo=github&style=flat-square)](https://github.com/mendozagit?tab=followers)
 [![Twitter @soyjesusmen](https://img.shields.io/twitter/follow/soyjesusmen?label=%40soyjesusmen&logo=twitter&style=flat-square)](https://twitter.com/@soyjesusmen)
 [![Email](https://img.shields.io/badge/mendoza.git%40gmail.com-mail-blueviolet?style=flat-square)](mailto://mendoza.git@gmail.com)
 
-I'm a software developer, .NET  user and founder of [DotNetCfdi](https://github.com/dotnetcfdi). I'm deeply convinced on free software (as freedom) and the value of community. I would like to be a full time free software developer, but I also make software, non open source, and I enjoy it. 
+I'm a systems engineer passionate about software development, specialized in Microsoft .NET technologies, user and founder of [DotnetCfdi](https://github.com/dotnetcfdi). I'm deeply convinced on free software and the value of community.  but I also make non open source software, I really enjoy it. 
 
 ## Personal and community Projects
 
 - [`dotnetcfdi/credentials`](https://github.com/dotnetcfdi/credentials):
-  Library to read, create and validate Mexican CFDI.
+  Library was created to work with SAT CSD and FIEL files in a simple way in .NET
   
 - [`dotnetcfdi/invoicing`](https://github.com/dotnetcfdi/invoicing):
-  Library to create and validate Mexican CFDI invoices. (Mexican SAT).
+  Library to create and validate and sing Mexican CFDI invoices. (Mexican SAT).
   
 - [`dotnetcfdi/xml-downloader`](https://github.com/dotnetcfdi/xml-downloader):
   Library to consume the webservice do download CFDI XML from SAT.
