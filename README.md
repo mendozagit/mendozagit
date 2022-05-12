@@ -28,7 +28,9 @@ Show :heart: and :star: the repository that you like!
 - 🌱 I’m currently learning about azure services, accounting, FrontEnd, and Mexican CFDI payroll (nóminas)
 - 💬 Ask me about Fiscal, SAT, Invoicing, Backend, .Net
 - 📫 How to reach me: mendoza.git@gmail.com | [`LinkedIn`](https://www.linkedin.com/in/mendozajj/)
+- ⚡ See my 2021 3D contributions GitHub Skyline  [`Skyline`](https://skyline.github.com/mendozagit/2021/)    
 
+  
 **mendozagit/mendozagit** is a ✨ _special_ ✨ repository because in this profile code with :heart: 
 
 <!--
@@ -43,5 +45,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
