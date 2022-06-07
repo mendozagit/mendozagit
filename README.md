@@ -31,7 +31,7 @@ Show :heart: and :star: the repository that you like!
 - ⚡ See my 2021 3D contributions GitHub Skyline  [`Skyline`](https://skyline.github.com/mendozagit/2021/)    
 
   
-**mendozagit/mendozagit** is a ✨ _special_ ✨ repository because in this profile code with :heart: 
+**mendozagit/mendozagit** is a  _special_  repository because in this profile code with :heart: 
 
 <!--
 **mendozagit/mendozagit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
