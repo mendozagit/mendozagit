@@ -25,7 +25,7 @@ Show :heart: and :star: the repository that you like!
 ## Other interesting information
 
 - 🔭 I’m currently working on [`dotnetcfdi/invoicing`](https://github.com/dotnetcfdi/invoicing)
-- 🌱 I’m currently learning about azure services, accounting, FrontEnd, and Mexican CFDI payroll (nóminas)
+- 🌱 I’m currently learning about azure services, accounting, FrontEnd, and Mexican payroll invoices (CFDI de nómina)
 - 💬 Ask me about Fiscal, SAT, Invoicing, Backend, .Net
 - 📫 How to reach me: mendoza.git@gmail.com | [`LinkedIn`](https://www.linkedin.com/in/mendozajj/)
 - ⚡ See my 2021 3D contributions GitHub Skyline  [`Skyline`](https://skyline.github.com/mendozagit/2021/)    
