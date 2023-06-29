@@ -6,7 +6,7 @@
 [![Twitter @soyjesusmen](https://img.shields.io/twitter/follow/soyjesusmen?label=%40soyjesusmen&logo=twitter&style=flat-square)](https://twitter.com/@soyjesusmen)
 [![Email](https://img.shields.io/badge/mendoza.git%40gmail.com-mail-blueviolet?style=flat-square)](mailto://mendoza.git@gmail.com)
 
-I'm a systems engineer passionate about software development, specialized in Microsoft .NET technologies, user and founder of [DotnetCfdi](https://github.com/dotnetcfdi). I'm deeply convinced on free software and the value of community.  but I also make non open source software, I really enjoy it. 
+I'm a software engineer passionate about software development, specialized in Microsoft .NET technologies, user and founder of [DotnetCfdi](https://github.com/dotnetcfdi). I'm deeply convinced on free software and the value of community.  but I also make non open source software, I really enjoy it. 
 
 ## Personal and community Projects
 
