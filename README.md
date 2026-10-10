@@ -10,15 +10,9 @@ I'm a software engineer passionate about software development, specialized in Mi
 
 ## Personal and community Projects
 
-- [`dotnetcfdi/credentials`](https://github.com/dotnetcfdi/credentials):
-  Library was created to work with SAT CSD and FIEL files in a simple way in .NET
-  
 - [`dotnetcfdi/invoicing`](https://github.com/dotnetcfdi/invoicing):
   Library to create and validate and sing Mexican CFDI invoices. (Mexican SAT).
-  
-- [`dotnetcfdi/xml-downloader`](https://github.com/dotnetcfdi/xml-downloader):
-  Library to consume the webservice do download CFDI XML from SAT.
-  
+    
 
 Show :heart: and :star: the repository that you like!
 
